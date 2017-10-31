@@ -1,4 +1,5 @@
 // server.js
+/* courteous of Nick Manning https://medium.com/netscape/deploying-a-vue-js-2-x-app-to-heroku-in-5-steps-tutorial-a69845ace489 */
 var express = require('express');
 var path = require('path');
 var serveStatic = require('serve-static');
